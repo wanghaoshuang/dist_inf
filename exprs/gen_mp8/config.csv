@@ -1,0 +1,5 @@
+[ring_id -> ranks]
+0,0,1
+[rank -> ring_ids]
+0,0
+1,0
